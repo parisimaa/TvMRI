@@ -10,4 +10,4 @@ TV - MRI Reconstruction Compressed Sensing
 ## 4. Reference based Magnitude Subtraction CS
 
 ### Contact
-
+Parisima Abdali: [pa2297@nyu.edu](mailto:pa2297@nyu.edu)
