@@ -8,3 +8,6 @@ TV - MRI Reconstruction Compressed Sensing
 ## 2. Spatio-Temporal TV (Dynamic CS)
 ## 3. Magnitude Subtraction CS
 ## 4. Reference based Magnitude Subtraction CS
+
+### Contact
+
