@@ -7,7 +7,7 @@ Download the dataset from: https://drive.google.com/file/d/0B4nLrDuviSiWajFDV1Fr
 
 ## 1. Spatial TV (Independent CS)
 <p align="center">
-  <img src="https://latex.codecogs.com/svg.latex?\bg{transparent}\min_{x}%20\quad%20\frac{1}{2}\left\|y-MFx\right\|_{2}^{2}+\lambda\left\|Dx\right\|_{1}" />
+  <img src="https://latex.codecogs.com/svg.latex?\color{white}\min_{x}%20\quad%20\frac{1}{2}\left\|y-MFx\right\|_{2}^{2}+\lambda\left\|Dx\right\|_{1}" />
 </p>
 
 
