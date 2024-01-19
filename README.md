@@ -18,7 +18,7 @@ Download the dataset from: https://drive.google.com/file/d/0B4nLrDuviSiWajFDV1Fr
   <img src="https://latex.codecogs.com/svg.latex?\color{white}\min_{x}%20f(Dx)%20+%20g(x)" />
 </p>
 
-
+z^{k+1} = \text{prox}_{\sigma f^*}(z^k + \sigma D(2x^{k+1} - x^k))
 
 
 
