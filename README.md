@@ -28,13 +28,12 @@ Download the dataset from: https://drive.google.com/file/d/0B4nLrDuviSiWajFDV1Fr
 
 
 
-
-
-
-
-
-
 ## 2. Spatio-Temporal TV (Dynamic CS)
+
+<p align="center">
+  <img src="https://latex.codecogs.com/svg.latex?\color{white}\min_{x}%20\quad%20\frac{1}{2}\left\|y-MFSx\right\|_{2}^{2}+\lambda_s\left\|D_sx\right\|_{1}%20+%20\lambda_t\left\|D_tx\right\|_{1}" />
+</p>
+
 ## 3. Magnitude Subtraction CS
 ## 4. Reference based Magnitude Subtraction CS
 
