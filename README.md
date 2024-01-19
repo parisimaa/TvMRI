@@ -34,6 +34,15 @@ Download the dataset from: https://drive.google.com/file/d/0B4nLrDuviSiWajFDV1Fr
   <img src="https://latex.codecogs.com/svg.latex?\color{white}\min_{x}%20\quad%20\frac{1}{2}\left\|y-MFSx\right\|_{2}^{2}+\lambda_s\left\|D_sx\right\|_{1}%20+%20\lambda_t\left\|D_tx\right\|_{1}" />
 </p>
 
+<p align="center">
+  <img src="https://latex.codecogs.com/svg.latex?\color{white}(D_s%20x)_{ijk}%20=%20\begin{bmatrix}x_{ijk}%20-%20x_{(i-1)jk}%20\\%20x_{ijk}%20-%20x_{i(j-1)k}\end{bmatrix}" />
+</p>
+
+<p align="center">
+  <img src="https://latex.codecogs.com/svg.latex?\color{white}(D_t%20x)_{ijk}%20=%20x_{ijk}%20-%20x_{ij(k-1)}" />
+</p>
+
+
 ## 3. Magnitude Subtraction CS
 ## 4. Reference based Magnitude Subtraction CS
 
