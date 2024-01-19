@@ -6,6 +6,8 @@ Download the dataset from: https://drive.google.com/file/d/0B4nLrDuviSiWajFDV1Fr
 ## Parallel Imaging: 
 
 ## 1. Spatial TV (Independent CS)
+![equation](https://latex.codecogs.com/svg.latex?\min_{x}%20\quad%20\frac{1}{2}\left\|y-MFx\right\|_{2}^{2}+\lambda\left\|Dx\right\|_{1})
+
 ## 2. Spatio-Temporal TV (Dynamic CS)
 ## 3. Magnitude Subtraction CS
 ## 4. Reference based Magnitude Subtraction CS
