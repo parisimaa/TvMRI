@@ -1,6 +1,6 @@
 # TvMRI
 TV - MRI Reconstruction Compressed Sensing \
-Download the data from: https://drive.google.com/file/d/0B4nLrDuviSiWajFDV1Frc3cxR0k/view?usp=sharing
+Download the dataset from: https://drive.google.com/file/d/0B4nLrDuviSiWajFDV1Frc3cxR0k/view?usp=sharing
 
 ## Compressed Senssing: 
 ## Parallel Imaging: 
