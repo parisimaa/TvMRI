@@ -6,9 +6,9 @@ Download the dataset from: https://drive.google.com/file/d/0B4nLrDuviSiWajFDV1Fr
 ## Parallel Imaging: 
 
 ## 1. Spatial TV (Independent CS)
-![equation dark mode](https://latex.codecogs.com/svg.latex?\color{white}\min_{x}%20\quad%20\frac{1}{2}\left\|y-MFx\right\|_{2}^{2}+\lambda\left\|Dx\right\|_{1})
+(https://latex.codecogs.com/svg.latex?\color{white}\min_{x}%20\quad%20\frac{1}{2}\left\|y-MFx\right\|_{2}^{2}+\lambda\left\|Dx\right\|_{1})
 <p align="center">
-  <img src="https://latex.codecogs.com/svg.latex?\min_{x}%20\quad%20\frac{1}{2}\left\|y-MFx\right\|_{2}^{2}+\lambda\left\|Dx\right\|_{1}" />
+ ![equation dark mode] <img src="https://latex.codecogs.com/svg.latex?\min_{x}%20\quad%20\frac{1}{2}\left\|y-MFx\right\|_{2}^{2}+\lambda\left\|Dx\right\|_{1}" />
 </p>
 
 ## 2. Spatio-Temporal TV (Dynamic CS)
