@@ -25,10 +25,6 @@ Download the dataset from: https://drive.google.com/file/d/0B4nLrDuviSiWajFDV1Fr
   <img src="https://latex.codecogs.com/svg.latex?\color{white}z^{k+1}%20=%20\text{prox}_{\sigma%20f^*}%20\left(z^k%20+%20\sigma%20D(2x^{k+1}%20-%20x^k)\right)" />
 </p>
 
-<p align="center">
-  <img src="https://latex.codecogs.com/svg.latex?\color{white}x^{k+1}%20=%20x^k%20-%20\tau%20(S^HF^H(MFSx^k%20-%20y)%20+%20D_s^\top%20z_s^k%20+%20D_t^\top%20z_t^k)" />
-
-
 
 ## 2. Spatio-Temporal TV (Dynamic CS)
 
@@ -43,6 +39,9 @@ Download the dataset from: https://drive.google.com/file/d/0B4nLrDuviSiWajFDV1Fr
 <p align="center">
   <img src="https://latex.codecogs.com/svg.latex?\color{white}(D_t%20x)_{ijk}%20=%20x_{ijk}%20-%20x_{ij(k-1)}" />
 </p>
+
+<p align="center">
+  <img src="https://latex.codecogs.com/svg.latex?\color{white}x^{k+1}%20=%20x^k%20-%20\tau%20(S^HF^H(MFSx^k%20-%20y)%20+%20D_s^\top%20z_s^k%20+%20D_t^\top%20z_t^k)" />
 
 </p>
 <p align="center">
