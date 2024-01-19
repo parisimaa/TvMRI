@@ -26,6 +26,7 @@ Download the dataset from: https://drive.google.com/file/d/0B4nLrDuviSiWajFDV1Fr
 
 
 
+
 ## 2. Spatio-Temporal TV (Dynamic CS)
 ## 3. Magnitude Subtraction CS
 ## 4. Reference based Magnitude Subtraction CS
