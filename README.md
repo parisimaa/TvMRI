@@ -52,7 +52,7 @@ Download the dataset from: https://drive.google.com/file/d/0B4nLrDuviSiWajFDV1Fr
 
 ## 3. Magnitude Subtraction CS
 
-<p align="center">
+<p >
   <img src="https://latex.codecogs.com/svg.latex?\color{white}\min_{x_1%20,%20x_2}%20\quad%20\frac{1}{2}\left\|%20y_1%20-%20M_1%20FS_1x_1%20\right\|_{2}^{2}%20+%20\frac{1}{2}\left\|%20y_2%20-%20M_2%20FS_2x_2\right\|_{2}^{2}%20+%20\lambda%20TV\left(x_1\right)%20+%20\lambda%20TV\left(x_2\right)%20+%20\mu%20\left\|%20\left%20|x_2%20\right|%20-%20\left%20|x_1%20\right|\right\|_{1}" />
 </p>
 
