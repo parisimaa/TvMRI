@@ -60,11 +60,12 @@ Iteration updates:
 
 Iteration updates:
 <p >
-  <img src="https://latex.codecogs.com/svg.latex?\color{white}\bg{black}\dpi{110}x_1^{n+1}%20=%20\mathcal{S}_{\tau%20\mu}%20\left(\left(x_1^n%20-%20\tau%20\left(S_1^HF^H(M_1FS_1x_1^n-y_1)+D^Tz_1^n\right)\right)-\left%20|x_2^n%20\right|%20\left(e^{i\phi_1}\right)\right)%20+%20\left%20|x_2^n%20\right|%20\left(e^{i\phi_1}\right)" />
+  <img src="https://latex.codecogs.com/svg.latex?\color{white}z_1^{n+1}%20=%20\text{clip}_\lambda%20\left(z_1^n%20+%20\sigma%20D\left(2x_1^{n+1}%20-%20x_1^n\right)\right)" />
 </p>
 <p >
-  <img src="https://latex.codecogs.com/svg.latex?\color{white}\bg{black}\dpi{110}x_2^{n+1}%20=%20\mathcal{S}_{\tau%20\mu}%20\left(\left(x_2^n%20-%20\tau%20\left(S_2^HF^H(M_2FS_2x_2^n-y_2)+D^Tz_2^n\right)\right)-\left%20|x_1^n%20\right|%20\left(e^{i\phi_2}\right)\right)%20+%20\left%20|x_1^n%20\right|%20\left(e^{i\phi_2}\right)" />
+  <img src="https://latex.codecogs.com/svg.latex?\color{white}z_2^{n+1}%20=%20\text{clip}_\lambda%20\left(z_2^n%20+%20\sigma%20D\left(2x_2^{n+1}%20-%20x_2^n\right)\right)" />
 </p>
+
 
 
 <p >
