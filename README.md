@@ -42,13 +42,13 @@ Iteration updates:
 </p>
 
 Iteration updates:
-<p align="center">
+<p >
   <img src="https://latex.codecogs.com/svg.latex?\color{white}x^{k+1}%20=%20x^k%20-%20\tau%20(S^HF^H(MFSx^k%20-%20y)%20+%20D_s^\top%20z_s^k%20+%20D_t^\top%20z_t^k)" />
 
-<p align="center">
+<p >
   <img src="https://latex.codecogs.com/svg.latex?\color{white}z_s^{k+1}%20=%20\mathcal{S}_{\lambda_s}%20\left(z_s^k%20+%20\sigma%20D_s%20(2x^{k+1}-x^{k})\right)" />
 </p>
-<p align="center">
+<p >
   <img src="https://latex.codecogs.com/svg.latex?\color{white}z_t^{k+1}%20=%20\mathcal{S}_{\lambda_t}%20\left(z_t^k%20+%20\sigma%20D_t%20(2x^{k+1}-x^{k})\right)" />
 </p>
 
