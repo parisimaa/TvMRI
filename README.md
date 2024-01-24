@@ -58,6 +58,7 @@ Iteration updates:
   <img src="https://latex.codecogs.com/svg.latex?\color{white}\min_{x_1%20,%20x_2}%20\quad%20\frac{1}{2}\left\|%20y_1%20-%20M_1%20FS_1x_1%20\right\|_{2}^{2}%20+%20\frac{1}{2}\left\|%20y_2%20-%20M_2%20FS_2x_2\right\|_{2}^{2}%20+%20\lambda%20TV\left(x_1\right)%20+%20\lambda%20TV\left(x_2\right)%20+%20\mu%20\left\|%20\left%20|x_2%20\right|%20-%20\left%20|x_1%20\right|\right\|_{1}" />
 </p>
 
+Iteration updates:
 <p align="center">
   <img src="https://latex.codecogs.com/svg.latex?\color{white}x_1^{n+1}%20=%20\mathcal{S}_{\tau%20\mu}%20\left(\left(x_1^n%20-%20\tau%20\left(S_1^HF^H(M_1FS_1x_1^n-y_1)+D^Tz_1^n\right)\right)-\left%20|x_2^n%20\right|%20\left(e^{i\phi_1}\right)\right)%20+%20\left%20|x_2^n%20\right|%20\left(e^{i\phi_1}\right)" />
 </p>
