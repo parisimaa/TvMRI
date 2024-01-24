@@ -41,6 +41,7 @@ Iteration updates:
   <img src="https://latex.codecogs.com/svg.latex?\color{white}(D_t%20x)_{ijk}%20=%20x_{ijk}%20-%20x_{ij(k-1)}" />
 </p>
 
+Iteration updates:
 <p align="center">
   <img src="https://latex.codecogs.com/svg.latex?\color{white}x^{k+1}%20=%20x^k%20-%20\tau%20(S^HF^H(MFSx^k%20-%20y)%20+%20D_s^\top%20z_s^k%20+%20D_t^\top%20z_t^k)" />
 
