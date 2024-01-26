@@ -19,11 +19,11 @@ Download the dataset from: https://drive.google.com/file/d/0B4nLrDuviSiWajFDV1Fr
 </p>
 
 Iteration updates:
-1. <p >
-  <img src="https://latex.codecogs.com/svg.latex?\color{white}x^{k+1}%20=%20\text{prox}_{\tau%20g}%20\left(x^k%20-%20\tau%20D^\top%20z^k\right)" />
+ <p >
+  <img src="https://latex.codecogs.com/svg.latex?\color{white}1. x^{k+1}%20=%20\text{prox}_{\tau%20g}%20\left(x^k%20-%20\tau%20D^\top%20z^k\right)" />
 </p>
-2. <p >
-  <img src="https://latex.codecogs.com/svg.latex?\color{white}z^{k+1}%20=%20\text{prox}_{\sigma%20f^*}%20\left(z^k%20+%20\sigma%20D(2x^{k+1}%20-%20x^k)\right)" />
+<p >
+  <img src="https://latex.codecogs.com/svg.latex?\color{white}2. z^{k+1}%20=%20\text{prox}_{\sigma%20f^*}%20\left(z^k%20+%20\sigma%20D(2x^{k+1}%20-%20x^k)\right)" />
 </p>
 
 
