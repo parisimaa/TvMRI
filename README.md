@@ -74,8 +74,12 @@ Iteration updates:
 </p>
 
 
-
 ## 4. Reference based Magnitude Subtraction CS
+his method involves reconstructing the first frame at a lower acceleration rate
+independently and utilizing its magnitude as a reference for the reconstruction of subsequent images.
+By adopting this strategy, we can improve the Peak Signal-to-Noise Ratio (PSNR). When applying
+this approach to all frames within a dataset, we consistently observe that the PSNR exceeds that of
+independent reconstructions throughout the sequence.
 
 ### Contact
 Parisima Abdali: [pa2297@nyu.edu](mailto:pa2297@nyu.edu)
