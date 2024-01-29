@@ -3,6 +3,12 @@ TV - MRI Reconstruction Compressed Sensing \
 Download the dataset from: https://drive.google.com/file/d/0B4nLrDuviSiWajFDV1Frc3cxR0k/view?usp=sharing
 
 ## Compressed Senssing: 
+Physical data acquisition can be represented as,
+<p align="center">
+  <img src="https://latex.codecogs.com/svg.latex?\color{white}y%20=%20Ax%20+%20n" />
+</p>
+
+
 ## Parallel Imaging: 
 
 ## 1. Spatial TV (Independent CS)
