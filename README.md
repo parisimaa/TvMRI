@@ -10,6 +10,8 @@ Download the dataset from: https://drive.google.com/file/d/0B4nLrDuviSiWajFDV1Fr
   <img src="https://latex.codecogs.com/svg.latex?\color{white}\min_{x}%20\quad%20\frac{1}{2}\left\|y-MFx\right\|_{2}^{2}+\lambda\left\|Dx\right\|_{1}" />
 </p>
 
+In TV MRI reconstruction, we represent the matrix D as follow,
+
 <p align="center">
   <img src="https://latex.codecogs.com/svg.latex?\color{white}D%20=%20\begin{bmatrix}%20D_h\\%20D_v%20\end{bmatrix}%20\quad|%20\quad%20D_{hx}%20=%20\begin{bmatrix}%201\\%20-1%20\end{bmatrix}%20\ast%20x%20\quad|%20\quad%20D_{vx}%20=%20\begin{bmatrix}%201%20&%20-1%20\end{bmatrix}%20\ast%20x" />
 </p>
