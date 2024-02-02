@@ -8,7 +8,8 @@ Physical data acquisition can be represented as,
   <img src="https://latex.codecogs.com/svg.latex?\color{white}y%20=%20Ax%20+%20n" />
 </p>
 
-
+A general formulation that also allows for noise in the observed
+signal $y $ is given by the following optimization problem, least squares minimization along with regularization term
 ## Parallel Imaging: 
 
 ## 1. Spatial TV (Independent CS)
