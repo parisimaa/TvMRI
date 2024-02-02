@@ -9,7 +9,11 @@ Physical data acquisition can be represented as,
 </p>
 
 A general formulation that also allows for noise in the observed
-signal $y $ is given by the following optimization problem, least squares minimization along with regularization term
+signal $y $ is given by the following optimization problem, least squares minimization along with regularization term,
+<p align="center">
+  <img src="https://latex.codecogs.com/svg.latex?\color{white}\min_{x}%20\quad%20\frac{1}{2}\left\|y-Ax\right\|_{2}^{2}+\lambda%20\text{TV}(x)" />
+</p>
+
 ## Parallel Imaging: 
 
 ## 1. Spatial TV (Independent CS)
