@@ -15,6 +15,11 @@ signal $y $ is given by the following optimization problem, least squares minimi
 </p>
 
 ## Parallel Imaging: 
+We can redefine the physical data acquisition model for multi-coil MRI as,
+<p align="center">
+  <img src="https://latex.codecogs.com/svg.latex?\color{white}y_i%20=%20FM%20S_i%20x%20+%20n_i,%20\quad%20i%20=%201%20\ldots%20C" />
+</p>
+
 
 ## 1. Spatial TV (Independent CS)
 <p align="center">
