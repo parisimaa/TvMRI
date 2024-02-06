@@ -52,7 +52,7 @@ Iteration updates:
 </p>
 
 The operators Ds and Dt represent spatial and temporal difference operators, which are designed to
-induce sparsity within both the image and temporal domains. 
+induce sparsity within both the image and temporal domains.
 
 <p align="center">
   <img src="https://latex.codecogs.com/svg.latex?\color{white}(D_s%20x)_{ijk}%20=%20\begin{bmatrix}x_{ijk}%20-%20x_{(i-1)jk}%20\\%20x_{ijk}%20-%20x_{i(j-1)k}\end{bmatrix}" />
